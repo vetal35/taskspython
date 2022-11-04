@@ -1,0 +1,36 @@
+<xml>
+    <first_name = "Фамилия">Босов</first_name>
+    <second_name = "Имя">Денис</second_name>
+    <phone = "Телефон">89370212331</phone>
+    <comment = "Комментарий">первая запись</comment>
+</xml>
+<xml>
+    <first_name = "Фамилия">Сидоренко</first_name>
+    <second_name = "Имя">Ольга</second_name>
+    <phone = "Телефон">89375695440</phone>
+    <comment = "Комментарий">вторая запись</comment>
+</xml>
+<xml>
+    <first_name = "Фамилия">Дубов</first_name>
+    <second_name = "Имя">Даня</second_name>
+    <phone = "Телефон">89371018325</phone>
+    <comment = "Комментарий">не стрижётся </comment>
+</xml>
+<xml>
+    <first_name = "Фамилия">Заикуний</first_name>
+    <second_name = "Имя">Сергей</second_name>
+    <phone = "Телефон">89370133222</phone>
+    <comment = "Комментарий">не работает</comment>
+</xml>
+<xml>
+    <first_name = "Фамилия">грудинин</first_name>
+    <second_name = "Имя">Александр</second_name>
+    <phone = "Телефон">89060112941</phone>
+    <comment = "Комментарий">звонить после 14-00</comment>
+</xml>
+<xml>
+    <first_name = "Фамилия">тосов</first_name>
+    <second_name = "Имя">витя</second_name>
+    <phone = "Телефон">555555</phone>
+    <comment = "Комментарий">дом</comment>
+</xml>
